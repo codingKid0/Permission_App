@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Permission_App</string>
+    <string name="permission_button">Contact Permission</string>
+</resources>
